@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolHRAdministration", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRAdministrationAPI", "HRAdministrationAPI\HRAdministrationAPI.csproj", "{9A3B3D25-7648-4D82-B318-B320EB832878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateBasicExample", "DelegateBasicExample\DelegateBasicExample.csproj", "{3FFFFF12-852E-42EC-9AA9-11E035DBC81A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9A3B3D25-7648-4D82-B318-B320EB832878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A3B3D25-7648-4D82-B318-B320EB832878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A3B3D25-7648-4D82-B318-B320EB832878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFFFF12-852E-42EC-9AA9-11E035DBC81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFFFF12-852E-42EC-9AA9-11E035DBC81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFFFF12-852E-42EC-9AA9-11E035DBC81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFFFF12-852E-42EC-9AA9-11E035DBC81A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
